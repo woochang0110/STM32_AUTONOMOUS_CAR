@@ -20,11 +20,11 @@
 
 ## Output
 
-[![CAR Front](./documents/ACAR_front.jpg)]
+![CAR Front](./documents/ACAR_front.jpg)
 
-[![CAR UP](./documents/ACAR_up.jpg)]
+![CAR UP](./documents/ACAR_up.jpg)
 
-[![HW Circuit](./documents/HW_PinLayout.jpg)]
+![HW Circuit](./documents/HW_PinLayout.jpg)
 
 <br>
 
