@@ -1,0 +1,5 @@
+UART0.c:30:6:HAL_UART_RxCpltCallback	6
+UART0.c:92:5:is_empty	2
+UART0.c:100:5:is_full	2
+UART0.c:112:6:pc_command_processing	10
+UART0.c:174:5:digit_check	4

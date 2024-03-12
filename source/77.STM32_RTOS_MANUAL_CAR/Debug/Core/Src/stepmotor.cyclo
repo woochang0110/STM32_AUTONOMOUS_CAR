@@ -1,0 +1,6 @@
+stepmotor.c:19:6:set_rpm	1
+stepmotor.c:26:6:stepmotor_drive	12
+stepmotor.c:154:6:stepmotor_forward_backward_stop	8
+stepmotor.c:185:6:btn2_btn3_check	3
+stepmotor.c:204:6:stepmotor_forward_backward	8
+stepmotor.c:239:6:stepmotor_main_test	5

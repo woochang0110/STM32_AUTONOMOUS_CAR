@@ -1,0 +1,8 @@
+led.c:7:6:button1_ledall_on_off	3
+led.c:26:6:led2_toggle	1
+led.c:33:6:led_on1_up	2
+led.c:44:6:led_on1_down	2
+led.c:54:6:led_on_up	2
+led.c:65:6:led_on_down	2
+led.c:74:6:led_all_on	1
+led.c:79:6:led_all_off	1
