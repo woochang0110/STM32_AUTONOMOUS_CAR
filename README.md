@@ -31,8 +31,8 @@
 ## Presentation
 
 아래 사진을 누르면 데모 영상 링크로 이동합니다.
-[![Presentation](documents/presentation_thumbnail.png)](/documents/BT를 통한 FREE RTOS RC카 제어_우창민.pdf)<br>
-
+[![Presentation](documents/presentation_thumbnail.png)](/documents/RCcar_BTcontrol.pdf)<br>
+[![프로젝트 개발명세서](documents/presentation_thumbnail.png)](/Documents/EOF_development_specification.pdf)<br>
 ## Demo Vedio
 
 아래 사진을 누르면 데모 영상 링크로 이동합니다.
